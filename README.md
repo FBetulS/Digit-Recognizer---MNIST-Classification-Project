@@ -1,7 +1,4 @@
-# Digit-Recognizer---MNIST-Classification-Project
-markdown
 
-Copy
 # 🖊 Digit Recognizer - MNIST Sınıflandırma Projesi
 
 Bu proje, el yazısı rakamları tanımak için derin öğrenme tekniklerine odaklanmaktadır. Model, MNIST veri seti kullanılarak geliştirilmiş ve %99.56 doğruluk oranı ile Kaggle yarışmasında ilk %5'te yer almıştır.
