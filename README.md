@@ -3,6 +3,9 @@
 
 Bu proje, el yazısı rakamları tanımak için derin öğrenme tekniklerine odaklanmaktadır. Model, MNIST veri seti kullanılarak geliştirilmiş ve %99.56 doğruluk oranı ile Kaggle yarışmasında ilk %5'te yer almıştır.
 
+⚠️ Not
+3D grafiklerim ve görselleştirmelerim maalesef gözükmüyor. Bu durum, bazı tarayıcı veya platform uyumsuzluklarından kaynaklanabilir.
+
 ## 🔗 Kaggle Yarışması
 [Digit Recognizer - Kaggle](https://www.kaggle.com/c/digit-recognizer)
 
